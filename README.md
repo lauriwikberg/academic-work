@@ -10,4 +10,4 @@ To identify customer data privacy and security challenges arising from big data 
 
 **hAppi**
 
-A sketch of a consumer healthcare app centered on a personal health assistant
+A sketch of a consumer healthcare app centered on a personal health assistant.
