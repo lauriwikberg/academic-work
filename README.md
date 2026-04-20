@@ -1,4 +1,4 @@
-**Bachelor's thesis**
+**Bachelor's thesis: The Impact Of Big Data on Customer Data and Security**
 
 - Overview:
 This thesis is a literature review on customer data privacy and security challenges amid big data and it examines customer data privacy and security concerns in the era of big data and digital transformation. Thesis gives managerial implications on how businesses can address customers’ expectations and regulatory requirements in the era of big data.
