@@ -1,3 +1,5 @@
+#Bachelor's thesis
+
 **Overview:**  
 This thesis is a literature review on customer data privacy and security challenges amid big data and it examines customer data privacy and security concerns in the era of big data and digital transformation. Thesis gives managerial implications on how businesses can address customers’ expectations and regulatory requirements in the era of big data.
 
